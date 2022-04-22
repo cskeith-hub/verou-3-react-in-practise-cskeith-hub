@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: cadetblue;
+}
+
+.navBox{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    .brand{
+        margin-right: 1rem;
+    }
+    input{
+        width: 7rem;
+    }
+    button{
+        margin-left: 0.2rem;
+    }
+    .menu{
+        margin-left: 1rem;
+    }
+}
