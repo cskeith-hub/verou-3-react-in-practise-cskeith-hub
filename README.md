@@ -2,7 +2,7 @@
 
 ## Movie Suggestion app
 - goal is to make a Movie suggestion app.
-### React, Chakra, The Movie DataBase
+### React,  The Movie DataBase
 
 ## Collie Choice
 - cd cc    

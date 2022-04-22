@@ -1,7 +1,10 @@
 * {
   margin: 0;
   padding: 0;
-  background-color: cadetblue;
+}
+
+body {
+  background-color: azure;
 }
 
 .navBox {
@@ -28,5 +31,14 @@
 
 .navBox .menu {
   margin-left: 1rem;
+}
+
+.hero {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.cardBox {
+  text-align: center;
 }
 /*# sourceMappingURL=style.css.map */

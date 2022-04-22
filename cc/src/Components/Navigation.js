@@ -1,7 +1,6 @@
 import React from 'react';
 import {useState, useRef} from "react";
 
-
 function Navigation() {
     const [search, setSearch] = useState();
     const searchField = useRef();
