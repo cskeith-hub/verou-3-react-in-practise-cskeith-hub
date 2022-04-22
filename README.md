@@ -4,4 +4,7 @@
 - goal is to make a Movie suggestion app.
 ### React, Chakra, The Movie DataBase
 
+## Collie Choice
+- cd cc    
+
 ### Colin Renkema
