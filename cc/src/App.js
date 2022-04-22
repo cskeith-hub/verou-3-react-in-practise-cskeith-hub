@@ -2,20 +2,18 @@ import React from 'react';
 import {
   ChakraProvider,
   Box,
-  Text,
-  Link,
-  VStack,
-  Code,
-  Grid,
+  SimpleGrid,
   theme,
 } from '@chakra-ui/react';
-import { ColorModeSwitcher } from './ColorModeSwitcher';
+import Navigation from "./Components/Navigation.js"
+import MovieCard from "./Components/MovieCard.js"
 
 
 function App() {
   return (
-    <ChakraProvider theme={theme}>
-      <p>Hello World</p>
+    <ChakraProvider>
+         <Navigation />
+         <MovieCard />
     </ChakraProvider>
   );
 }
